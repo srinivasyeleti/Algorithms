@@ -1,3 +1,6 @@
+//Given an integer n and n space seperated integers
+//print "YES" if the number has exactly 3 divisors else print "NO"
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -39,54 +42,3 @@ int main()
   }
   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// #include<bits/stdc++.h>
-// using namespace std;
-
-// int main()
-// {
-//    srand((unsigned) time(NULL));
-//    for (int i = 0; i < 160; i++) {
-//       cout << 1 + rand() % 1000 << " ";
-//    }
-
-//    return 0;
-// }
-
-
-
-
-
