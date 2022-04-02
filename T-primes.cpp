@@ -1,5 +1,5 @@
 //Given an integer n and n space seperated integers
-//print "YES" if the number has exactly 3 divisors else print "NO"
+//print "YES" if the number has exactly 3 distinct positive divisors else print "NO"
 
 #include<bits/stdc++.h>
 using namespace std;
